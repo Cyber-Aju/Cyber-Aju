@@ -10,7 +10,7 @@ Computer Science & Engineering Student with a Passion for Learning, Coding, Web 
 - ⚡ Fun fact: I enjoy listening to songs and podcasts, writing journals and blogs.
 
 ## 🛠️ Skills
-- **Languages:** JavaScript, C/C++, HTML, CSS
+- **Languages:** JavaScript, C/C++, HTML, CSS, Python
 - **Frameworks and Libraries:** React, Node.js, Express, MongoDB
 - **Tools:** Git, GitHub, VS Code, Postman
 
